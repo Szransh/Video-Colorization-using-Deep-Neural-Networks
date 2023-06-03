@@ -1,0 +1,505 @@
+100%|██████████| 166/166 [09:46<00:00,  3.53s/it]
+Epoch 50:
+Generator Loss: 1.13566
+Discriminator Loss: 0.68310
+Generator GAN Loss: 0.71314
+100%|██████████| 166/166 [09:46<00:00,  3.53s/it]
+Epoch 51:
+Generator Loss: 1.10063
+Discriminator Loss: 0.69656
+Generator GAN Loss: 0.67259
+100%|██████████| 166/166 [09:40<00:00,  3.50s/it]
+Epoch 52:
+Generator Loss: 1.13779
+Discriminator Loss: 0.68306
+Generator GAN Loss: 0.71430
+100%|██████████| 166/166 [09:42<00:00,  3.51s/it]
+Epoch 53:
+Generator Loss: 1.09990
+Discriminator Loss: 0.72485
+Generator GAN Loss: 0.63773
+100%|██████████| 166/166 [09:36<00:00,  3.48s/it]
+Epoch 54:
+Generator Loss: 1.13978
+Discriminator Loss: 0.68344
+Generator GAN Loss: 0.71534
+100%|██████████| 166/166 [09:31<00:00,  3.45s/it]
+Epoch 55:
+Generator Loss: 1.07727
+Discriminator Loss: 0.73024
+Generator GAN Loss: 0.61756
+100%|██████████| 166/166 [09:30<00:00,  3.44s/it]
+Epoch 56:
+Generator Loss: 1.13933
+Discriminator Loss: 0.68313
+Generator GAN Loss: 0.71589
+100%|██████████| 166/166 [09:33<00:00,  3.46s/it]
+Epoch 57:
+Generator Loss: 1.09060
+Discriminator Loss: 0.72356
+Generator GAN Loss: 0.62704
+100%|██████████| 166/166 [09:37<00:00,  3.48s/it]
+Epoch 58:
+Generator Loss: 1.14202
+Discriminator Loss: 0.68306
+Generator GAN Loss: 0.71625
+100%|██████████| 166/166 [09:32<00:00,  3.45s/it]
+Epoch 59:
+Generator Loss: 1.07905
+Discriminator Loss: 0.74145
+Generator GAN Loss: 0.60782
+100%|██████████| 166/166 [09:33<00:00,  3.45s/it]
+Epoch 60:
+Generator Loss: 1.14362
+Discriminator Loss: 0.68258
+Generator GAN Loss: 0.71825
+100%|██████████| 166/166 [09:35<00:00,  3.47s/it]
+Epoch 61:
+Generator Loss: 1.10527
+Discriminator Loss: 0.73519
+Generator GAN Loss: 0.62974
+100%|██████████| 166/166 [09:33<00:00,  3.45s/it]
+Epoch 62:
+Generator Loss: 1.14497
+Discriminator Loss: 0.68217
+Generator GAN Loss: 0.71840
+100%|██████████| 166/166 [09:31<00:00,  3.45s/it]
+Epoch 63:
+Generator Loss: 1.09288
+Discriminator Loss: 0.70806
+Generator GAN Loss: 0.64843
+100%|██████████| 166/166 [09:35<00:00,  3.47s/it]
+Epoch 64:
+Generator Loss: 1.14456
+Discriminator Loss: 0.68233
+Generator GAN Loss: 0.71868
+100%|██████████| 166/166 [09:33<00:00,  3.46s/it]
+Epoch 65:
+Generator Loss: 1.08931
+Discriminator Loss: 0.69972
+Generator GAN Loss: 0.66832
+100%|██████████| 166/166 [09:31<00:00,  3.44s/it]
+Epoch 66:
+Generator Loss: 1.14631
+Discriminator Loss: 0.68126
+Generator GAN Loss: 0.72006
+100%|██████████| 166/166 [09:32<00:00,  3.45s/it]
+Epoch 67:
+Generator Loss: 1.09201
+Discriminator Loss: 0.73661
+Generator GAN Loss: 0.62049
+100%|██████████| 166/166 [09:35<00:00,  3.47s/it]
+Epoch 68:
+Generator Loss: 1.14975
+Discriminator Loss: 0.68204
+Generator GAN Loss: 0.72097
+100%|██████████| 166/166 [09:34<00:00,  3.46s/it]
+Epoch 69:
+Generator Loss: 1.10205
+Discriminator Loss: 0.72477
+Generator GAN Loss: 0.64284
+100%|██████████| 166/166 [09:31<00:00,  3.44s/it]
+Epoch 70:
+Generator Loss: 1.14948
+Discriminator Loss: 0.68118
+Generator GAN Loss: 0.72065
+100%|██████████| 166/166 [09:30<00:00,  3.44s/it]
+Epoch 71:
+Generator Loss: 1.10219
+Discriminator Loss: 0.72585
+Generator GAN Loss: 0.63212
+100%|██████████| 166/166 [09:34<00:00,  3.46s/it]
+Epoch 72:
+Generator Loss: 1.15389
+Discriminator Loss: 0.68115
+Generator GAN Loss: 0.72250
+100%|██████████| 166/166 [09:32<00:00,  3.45s/it]
+Epoch 73:
+Generator Loss: 1.08018
+Discriminator Loss: 0.75203
+Generator GAN Loss: 0.60177
+100%|██████████| 166/166 [09:34<00:00,  3.46s/it]
+Epoch 74:
+Generator Loss: 1.15458
+Discriminator Loss: 0.68074
+Generator GAN Loss: 0.72461
+100%|██████████| 166/166 [09:37<00:00,  3.48s/it]
+Epoch 75:
+Generator Loss: 1.08951
+Discriminator Loss: 0.69943
+Generator GAN Loss: 0.67624
+100%|██████████| 166/166 [09:39<00:00,  3.49s/it]
+Epoch 76:
+Generator Loss: 1.15470
+Discriminator Loss: 0.68027
+Generator GAN Loss: 0.72337
+100%|██████████| 166/166 [09:35<00:00,  3.46s/it]
+Epoch 77:
+Generator Loss: 1.12222
+Discriminator Loss: 0.73473
+Generator GAN Loss: 0.63270
+100%|██████████| 166/166 [09:43<00:00,  3.51s/it]
+Epoch 78:
+Generator Loss: 1.15710
+Discriminator Loss: 0.67970
+Generator GAN Loss: 0.72371
+100%|██████████| 166/166 [09:37<00:00,  3.48s/it]
+Epoch 79:
+Generator Loss: 1.07447
+Discriminator Loss: 0.74007
+Generator GAN Loss: 0.60605
+100%|██████████| 166/166 [09:37<00:00,  3.48s/it]
+Epoch 80:
+Generator Loss: 1.16097
+Discriminator Loss: 0.67984
+Generator GAN Loss: 0.72641
+100%|██████████| 166/166 [09:34<00:00,  3.46s/it]
+Epoch 81:
+Generator Loss: 1.09437
+Discriminator Loss: 0.72532
+Generator GAN Loss: 0.62416
+100%|██████████| 166/166 [09:37<00:00,  3.48s/it]
+Epoch 82:
+Generator Loss: 1.16011
+Discriminator Loss: 0.67888
+Generator GAN Loss: 0.72567
+100%|██████████| 166/166 [09:38<00:00,  3.49s/it]
+Epoch 83:
+Generator Loss: 1.07892
+Discriminator Loss: 0.73469
+Generator GAN Loss: 0.60477
+100%|██████████| 166/166 [09:37<00:00,  3.48s/it]
+Epoch 84:
+Generator Loss: 1.16081
+Discriminator Loss: 0.67968
+Generator GAN Loss: 0.72607
+100%|██████████| 166/166 [09:36<00:00,  3.47s/it]
+Epoch 85:
+Generator Loss: 1.10768
+Discriminator Loss: 0.68927
+Generator GAN Loss: 0.69173
+100%|██████████| 166/166 [09:34<00:00,  3.46s/it]
+Epoch 86:
+Generator Loss: 1.16350
+Discriminator Loss: 0.67805
+Generator GAN Loss: 0.72804
+100%|██████████| 166/166 [09:33<00:00,  3.45s/it]
+Epoch 87:
+Generator Loss: 1.08314
+Discriminator Loss: 0.73131
+Generator GAN Loss: 0.61100
+100%|██████████| 166/166 [09:42<00:00,  3.51s/it]
+Epoch 88:
+Generator Loss: 1.16461
+Discriminator Loss: 0.68166
+Generator GAN Loss: 0.72557
+100%|██████████| 166/166 [09:40<00:00,  3.50s/it]
+Epoch 89:
+Generator Loss: 1.08852
+Discriminator Loss: 0.72291
+Generator GAN Loss: 0.62097
+100%|██████████| 166/166 [09:30<00:00,  3.44s/it]
+Epoch 90:
+Generator Loss: 1.16514
+Discriminator Loss: 0.67699
+Generator GAN Loss: 0.72964
+100%|██████████| 166/166 [09:41<00:00,  3.51s/it]
+Epoch 91:
+Generator Loss: 1.10773
+Discriminator Loss: 0.72579
+Generator GAN Loss: 0.62143
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 92:
+Generator Loss: 1.16802
+Discriminator Loss: 0.67870
+Generator GAN Loss: 0.72583
+100%|██████████| 166/166 [10:11<00:00,  3.68s/it]
+Epoch 93:
+Generator Loss: 1.05909
+Discriminator Loss: 0.73168
+Generator GAN Loss: 0.58244
+100%|██████████| 166/166 [10:13<00:00,  3.70s/it]
+Epoch 94:
+Generator Loss: 1.17060
+Discriminator Loss: 0.67716
+Generator GAN Loss: 0.72953
+100%|██████████| 166/166 [10:11<00:00,  3.68s/it]
+Epoch 95:
+Generator Loss: 1.07127
+Discriminator Loss: 0.73703
+Generator GAN Loss: 0.60253
+100%|██████████| 166/166 [10:10<00:00,  3.68s/it]
+Epoch 96:
+Generator Loss: 1.17332
+Discriminator Loss: 0.67514
+Generator GAN Loss: 0.73299
+100%|██████████| 166/166 [10:10<00:00,  3.68s/it]
+Epoch 97:
+Generator Loss: 1.08230
+Discriminator Loss: 0.70211
+Generator GAN Loss: 0.63102
+100%|██████████| 166/166 [10:10<00:00,  3.68s/it]
+Epoch 98:
+Generator Loss: 1.17727
+Discriminator Loss: 0.67438
+Generator GAN Loss: 0.73327
+100%|██████████| 166/166 [10:10<00:00,  3.68s/it]
+Epoch 99:
+Generator Loss: 1.06281
+Discriminator Loss: 0.73579
+Generator GAN Loss: 0.59107
+100%|██████████| 166/166 [10:11<00:00,  3.68s/it]
+Epoch 100:
+Generator Loss: 1.17986
+Discriminator Loss: 0.67105
+Generator GAN Loss: 0.73761
+100%|██████████| 166/166 [10:25<00:00,  3.77s/it]
+Epoch 101:
+Generator Loss: 1.12214
+Discriminator Loss: 0.73054
+Generator GAN Loss: 0.61933
+100%|██████████| 166/166 [10:13<00:00,  3.70s/it]
+Epoch 102:
+Generator Loss: 1.18994
+Discriminator Loss: 0.66805
+Generator GAN Loss: 0.74230
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 103:
+Generator Loss: 1.06075
+Discriminator Loss: 0.74377
+Generator GAN Loss: 0.56968
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 104:
+Generator Loss: 1.19722
+Discriminator Loss: 0.66563
+Generator GAN Loss: 0.74988
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 105:
+Generator Loss: 1.11740
+Discriminator Loss: 0.73045
+Generator GAN Loss: 0.61504
+100%|██████████| 166/166 [10:13<00:00,  3.70s/it]
+Epoch 106:
+Generator Loss: 1.21125
+Discriminator Loss: 0.65906
+Generator GAN Loss: 0.75731
+100%|██████████| 166/166 [10:15<00:00,  3.71s/it]
+Epoch 107:
+Generator Loss: 1.13577
+Discriminator Loss: 0.70531
+Generator GAN Loss: 0.64842
+100%|██████████| 166/166 [10:18<00:00,  3.73s/it]
+Epoch 108:
+Generator Loss: 1.22705
+Discriminator Loss: 0.65073
+Generator GAN Loss: 0.77008
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 109:
+Generator Loss: 1.12467
+Discriminator Loss: 0.72497
+Generator GAN Loss: 0.61438
+100%|██████████| 166/166 [10:13<00:00,  3.70s/it]
+Epoch 110:
+Generator Loss: 1.25208
+Discriminator Loss: 0.64048
+Generator GAN Loss: 0.78700
+100%|██████████| 166/166 [10:13<00:00,  3.70s/it]
+Epoch 111:
+Generator Loss: 1.20367
+Discriminator Loss: 0.68476
+Generator GAN Loss: 0.78322
+100%|██████████| 166/166 [10:14<00:00,  3.70s/it]
+Epoch 112:
+Generator Loss: 1.28362
+Discriminator Loss: 0.62567
+Generator GAN Loss: 0.81144
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 113:
+Generator Loss: 1.15259
+Discriminator Loss: 0.73561
+Generator GAN Loss: 0.60173
+100%|██████████| 166/166 [10:11<00:00,  3.68s/it]
+Epoch 114:
+Generator Loss: 1.31483
+Discriminator Loss: 0.61386
+Generator GAN Loss: 0.83307
+100%|██████████| 166/166 [10:11<00:00,  3.69s/it]
+Epoch 115:
+Generator Loss: 1.28409
+Discriminator Loss: 0.67613
+Generator GAN Loss: 0.85458
+100%|██████████| 166/166 [10:11<00:00,  3.69s/it]
+Epoch 116:
+Generator Loss: 1.35746
+Discriminator Loss: 0.58901
+Generator GAN Loss: 0.87288
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 117:
+Generator Loss: 1.17173
+Discriminator Loss: 0.72921
+Generator GAN Loss: 0.59669
+100%|██████████| 166/166 [10:13<00:00,  3.69s/it]
+Epoch 118:
+Generator Loss: 1.41767
+Discriminator Loss: 0.56370
+Generator GAN Loss: 0.92430
+100%|██████████| 166/166 [10:12<00:00,  3.69s/it]
+Epoch 119:
+Generator Loss: 0.80594
+Discriminator Loss: 0.99209
+Generator GAN Loss: 0.31126
+100%|██████████| 166/166 [10:16<00:00,  3.71s/it]
+Epoch 120:
+Generator Loss: 1.44022
+Discriminator Loss: 0.54541
+Generator GAN Loss: 0.95483
+100%|██████████| 166/166 [09:55<00:00,  3.59s/it]
+Epoch 121:
+Generator Loss: 1.04808
+Discriminator Loss: 0.80054
+Generator GAN Loss: 0.51935
+100%|██████████| 166/166 [10:40<00:00,  3.86s/it]
+Epoch 122:
+Generator Loss: 1.46956
+Discriminator Loss: 0.55738
+Generator GAN Loss: 0.94199
+100%|██████████| 166/166 [10:41<00:00,  3.86s/it]
+Epoch 123:
+Generator Loss: 1.17657
+Discriminator Loss: 0.61488
+Generator GAN Loss: 0.70208
+100%|██████████| 166/166 [10:41<00:00,  3.86s/it]
+Epoch 124:
+Generator Loss: 1.51027
+Discriminator Loss: 0.52120
+Generator GAN Loss: 0.98849
+100%|██████████| 166/166 [10:40<00:00,  3.86s/it]
+Epoch 125:
+Generator Loss: 1.06450
+Discriminator Loss: 0.81108
+Generator GAN Loss: 0.46454
+100%|██████████| 166/166 [10:39<00:00,  3.85s/it]
+Epoch 126:
+Generator Loss: 1.58291
+Discriminator Loss: 0.50099
+Generator GAN Loss: 1.04506
+100%|██████████| 166/166 [10:40<00:00,  3.86s/it]
+Epoch 127:
+Generator Loss: 0.97832
+Discriminator Loss: 0.83185
+Generator GAN Loss: 0.40982
+100%|██████████| 166/166 [10:40<00:00,  3.86s/it]
+Epoch 128:
+Generator Loss: 1.57460
+Discriminator Loss: 0.49583
+Generator GAN Loss: 1.06830
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 129:
+Generator Loss: 1.18829
+Discriminator Loss: 0.75657
+Generator GAN Loss: 0.52014
+100%|██████████| 166/166 [10:36<00:00,  3.84s/it]
+Epoch 130:
+Generator Loss: 1.64645
+Discriminator Loss: 0.46410
+Generator GAN Loss: 1.11586
+100%|██████████| 166/166 [10:36<00:00,  3.84s/it]
+Epoch 131:
+Generator Loss: 1.13088
+Discriminator Loss: 0.78446
+Generator GAN Loss: 0.50399
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 132:
+Generator Loss: 1.69306
+Discriminator Loss: 0.45728
+Generator GAN Loss: 1.15560
+100%|██████████| 166/166 [10:36<00:00,  3.84s/it]
+Epoch 133:
+Generator Loss: 1.11440
+Discriminator Loss: 0.75753
+Generator GAN Loss: 0.47893
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 134:
+Generator Loss: 1.75962
+Discriminator Loss: 0.43854
+Generator GAN Loss: 1.20435
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 135:
+Generator Loss: 1.30869
+Discriminator Loss: 0.77270
+Generator GAN Loss: 0.54828
+100%|██████████| 166/166 [10:36<00:00,  3.84s/it]
+Epoch 136:
+Generator Loss: 1.85500
+Discriminator Loss: 0.41142
+Generator GAN Loss: 1.28201
+100%|██████████| 166/166 [10:36<00:00,  3.84s/it]
+Epoch 137:
+Generator Loss: 1.04197
+Discriminator Loss: 0.94456
+Generator GAN Loss: 0.38441
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 138:
+Generator Loss: 1.84569
+Discriminator Loss: 0.40302
+Generator GAN Loss: 1.30298
+100%|██████████| 166/166 [10:36<00:00,  3.83s/it]
+Epoch 139:
+Generator Loss: 1.01661
+Discriminator Loss: 0.76747
+Generator GAN Loss: 0.45964
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 140:
+Generator Loss: 1.87779
+Discriminator Loss: 0.39893
+Generator GAN Loss: 1.32059
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 141:
+Generator Loss: 1.01270
+Discriminator Loss: 0.87541
+Generator GAN Loss: 0.45791
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 142:
+Generator Loss: 1.91466
+Discriminator Loss: 0.38850
+Generator GAN Loss: 1.36082
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 143:
+Generator Loss: 1.46760
+Discriminator Loss: 0.53803
+Generator GAN Loss: 0.96386
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 144:
+Generator Loss: 1.93763
+Discriminator Loss: 0.37245
+Generator GAN Loss: 1.38054
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 145:
+Generator Loss: 1.42812
+Discriminator Loss: 0.52612
+Generator GAN Loss: 0.92975
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 146:
+Generator Loss: 1.98895
+Discriminator Loss: 0.35194
+Generator GAN Loss: 1.43634
+100%|██████████| 166/166 [10:38<00:00,  3.85s/it]
+Epoch 147:
+Generator Loss: 0.97794
+Discriminator Loss: 0.96386
+Generator GAN Loss: 0.32670
+100%|██████████| 166/166 [10:38<00:00,  3.85s/it]
+Epoch 148:
+Generator Loss: 2.13332
+Discriminator Loss: 0.34030
+Generator GAN Loss: 1.55127
+100%|██████████| 166/166 [10:37<00:00,  3.84s/it]
+Epoch 149:
+Generator Loss: 1.31084
+Discriminator Loss: 0.62906
+Generator GAN Loss: 0.67546
+100%|██████████| 166/166 [10:38<00:00,  3.85s/it]
+Epoch 150:
+Generator Loss: 2.10842
+Discriminator Loss: 0.32907
+Generator GAN Loss: 1.54721
